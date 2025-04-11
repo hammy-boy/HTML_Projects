@@ -1,0 +1,17 @@
+img{
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+}
+.username{
+    font-weight: bold;
+}
+h1{
+    font-weight: bolder;
+}
+em{
+    font-style: oblique;
+    color: blueviolet;
+    
+}
